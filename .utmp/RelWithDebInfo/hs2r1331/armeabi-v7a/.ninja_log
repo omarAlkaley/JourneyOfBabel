@@ -1,0 +1,11 @@
+# ninja log v5
+58	178	7417278218679731	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b5a4fc20e4711aad
+179	342	7417278219716406	D:/77777777/New folder/Babylon2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/hs2r1331/obj/armeabi-v7a/libswappywrapper.so	b8ec23606ab97081
+23	688	7417278223752155	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c445b4a6eaff931e
+1	710	7417278223918672	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c076282a01c8d7e1
+43	736	7417278224214606	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8929a9ee7b3b6204
+51	850	7417278225093484	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e35ab43775b80444
+14	862	7417278225104391	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9155922c518b7f2e
+31	957	7417278226385988	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	297337f12250b9fe
+8	1098	7417278227525089	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	26452701b8fdab5d
+1098	1272	7417278229080711	D:/77777777/New folder/Babylon2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/hs2r1331/obj/armeabi-v7a/libgame.so	cf4b249433a1588e

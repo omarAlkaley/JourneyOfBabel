@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 4555fe72a45eece4ea059a799b5b32ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2386463272426203550
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_0"
+  - first:
+      213: 1043981865560889143
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_1"
+  - first:
+      213: -6118951034347582259
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_2"
+  - first:
+      213: -2920601138959911165
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_3"
+  - first:
+      213: -9125074128449519862
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_4"
+  - first:
+      213: -4825469544088321805
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_5"
+  - first:
+      213: 1483341834118564222
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_6"
+  - first:
+      213: 4519967150510460429
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_7"
+  - first:
+      213: -6311046128423400200
+    second: "\u0631\u0645\u0648\u0632 \u0627\u0644\u0645\u0643\u0639\u0628_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Qupenumbers1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 264
+        width: 139
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289a033302a57144b9a3787013b80ab6
+      internalID: -1423182748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 245
+        width: 139
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5331584099d0cd45b535e805012457d
+      internalID: 167705851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 267
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4933142beb471f4bbc169c1bb94d7ee
+      internalID: 593698584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 273
+        width: 187
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2495cdafbbc7a42b39c7dcb705eb3b
+      internalID: 1702733356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4a5fb61b4e5db478b74c8d36fb6cb1
+      internalID: -1972659117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 35
+        width: 123
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98185ccc6bdae5449535633d8848c00
+      internalID: -1458354425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 23
+        width: 98
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3901b2f7bdaf4b9e52de91d185992
+      internalID: -1285435341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 20
+        width: 78
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c2db04a62f37f4d973a30536bc8eab
+      internalID: 1914352689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qupenumbers8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 23
+        width: 101
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ba11d3a31ffa4eb86d866df46df4f
+      internalID: 2129566501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f532633424034c94590e66b338132a4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Qupenumbers0: 167705851
+      Qupenumbers1: -1423182748
+      Qupenumbers2: 593698584
+      Qupenumbers3: 1702733356
+      Qupenumbers4: -1972659117
+      Qupenumbers5: -1458354425
+      Qupenumbers6: -1285435341
+      Qupenumbers7: 1914352689
+      Qupenumbers8: 2129566501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

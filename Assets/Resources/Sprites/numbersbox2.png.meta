@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: 627c97e054d00d541b44fa71427ba59f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -14999981803372478
+    second: numbersbox_0
+  - first:
+      213: -5910096964495717388
+    second: numbersbox_1
+  - first:
+      213: 3011267537583597504
+    second: numbersbox_2
+  - first:
+      213: -5773197560148868345
+    second: numbersbox_3
+  - first:
+      213: 2033892222192582219
+    second: numbersbox_4
+  - first:
+      213: -3293091486317123686
+    second: numbersbox_5
+  - first:
+      213: 5322456711054683569
+    second: numbersbox_6
+  - first:
+      213: -4330056396108975889
+    second: numbersbox_7
+  - first:
+      213: -9004041217205242939
+    second: numbersbox_8
+  - first:
+      213: -6101907669667522634
+    second: numbersbox_9
+  - first:
+      213: 3630436532020523975
+    second: numbersbox_10
+  - first:
+      213: 2641572249312231913
+    second: numbersbox_11
+  - first:
+      213: -3791533552086580697
+    second: numbersbox_12
+  - first:
+      213: -203438278810499053
+    second: numbersbox_13
+  - first:
+      213: -654587304149025634
+    second: numbersbox_14
+  - first:
+      213: 3383793853271622081
+    second: numbersbox_15
+  - first:
+      213: -306130850671291998
+    second: numbersbox_16
+  - first:
+      213: 4889836878832528628
+    second: numbersbox_17
+  - first:
+      213: -9201033729110982121
+    second: numbersbox_18
+  - first:
+      213: -4540777021911833483
+    second: numbersbox_19
+  - first:
+      213: 4675577725330172556
+    second: numbersbox_20
+  - first:
+      213: 2483863339151277460
+    second: numbersbox_21
+  - first:
+      213: 217799718454131171
+    second: numbersbox_22
+  - first:
+      213: 4848568762090448871
+    second: numbersbox_23
+  - first:
+      213: 5717293164847888853
+    second: numbersbox_24
+  - first:
+      213: 1281678734073528706
+    second: numbersbox_25
+  - first:
+      213: 4600314810044474780
+    second: numbersbox_26
+  - first:
+      213: -1706652424134839890
+    second: numbersbox_27
+  - first:
+      213: -4462336248253592740
+    second: numbersbox_28
+  - first:
+      213: 2954298326142259155
+    second: numbersbox_29
+  - first:
+      213: 5050024393966344521
+    second: numbersbox_30
+  - first:
+      213: -2122289546768130114
+    second: numbersbox_31
+  - first:
+      213: 9220040768346303748
+    second: numbersbox_32
+  - first:
+      213: 7259388452198856304
+    second: numbersbox_33
+  - first:
+      213: -582290023535184368
+    second: numbersbox_34
+  - first:
+      213: 4950187215709404863
+    second: numbersbox_35
+  - first:
+      213: 3299429581963427894
+    second: numbersbox_36
+  - first:
+      213: -4790955790072785038
+    second: numbersbox_37
+  - first:
+      213: 315272918479868903
+    second: numbersbox_38
+  - first:
+      213: -1894322002297594258
+    second: numbersbox_39
+  - first:
+      213: -7118735242711264858
+    second: numbersbox_40
+  - first:
+      213: 3456092292287279851
+    second: numbersbox_41
+  - first:
+      213: 3402355740312710483
+    second: numbersbox_42
+  - first:
+      213: -641896543001787295
+    second: numbersbox_43
+  - first:
+      213: 8407872279892578727
+    second: numbersbox_44
+  - first:
+      213: 2387667831424410536
+    second: numbersbox_45
+  - first:
+      213: -301996272309468418
+    second: numbersbox_46
+  - first:
+      213: 5003049481413284656
+    second: numbersbox_47
+  - first:
+      213: 124907949379574064
+    second: numbersbox_48
+  - first:
+      213: -6277197216790178921
+    second: numbersbox_49
+  - first:
+      213: 2229308657016048704
+    second: numbersbox_50
+  - first:
+      213: 4711870562704257553
+    second: numbersbox_51
+  - first:
+      213: -1139642212011966924
+    second: numbersbox_52
+  - first:
+      213: 3206116874390283726
+    second: numbersbox_53
+  - first:
+      213: 6450219436673068282
+    second: numbersbox_54
+  - first:
+      213: -2017344534419447117
+    second: numbersbox_55
+  - first:
+      213: -1759180356116789238
+    second: numbersbox_56
+  - first:
+      213: -4041650047000438537
+    second: numbersbox_57
+  - first:
+      213: -8319342886449454350
+    second: numbersbox_58
+  - first:
+      213: -6686284211568254751
+    second: numbersbox_59
+  - first:
+      213: 7897955293841732157
+    second: numbersbox_60
+  - first:
+      213: 3724142954347527820
+    second: numbersbox_61
+  - first:
+      213: 3609113575360207478
+    second: numbersbox_62
+  - first:
+      213: 7519179638783372795
+    second: numbersbox_63
+  - first:
+      213: 5115124416534570261
+    second: numbersbox_64
+  - first:
+      213: -2546294631379708900
+    second: numbersbox_65
+  - first:
+      213: 8294296065746735969
+    second: numbersbox_66
+  - first:
+      213: -5756400899964322209
+    second: numbersbox_67
+  - first:
+      213: -8150043919928089261
+    second: numbersbox_68
+  - first:
+      213: -3666076828970464584
+    second: numbersbox_69
+  - first:
+      213: -8415528322444080905
+    second: numbersbox_70
+  - first:
+      213: 1040800298495522882
+    second: numbersbox_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: numbersbox_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 542
+        width: 412
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24009f49895bacff0800000000000000
+      internalID: -14999981803372478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 539
+        width: 422
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb4e13bf1e1bfda0800000000000000
+      internalID: -5910096964495717388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 535
+        width: 421
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e55dfedb2ac920800000000000000
+      internalID: 3011267537583597504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_3
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 536
+        width: 413
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cc21286b71efa0800000000000000
+      internalID: -5773197560148868345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_4
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 542
+        width: 421
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ef7373336d93c10800000000000000
+      internalID: 2033892222192582219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 81
+        width: 412
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdeecadd2a2dd940800000000000000
+      internalID: 5322456711054683569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 84
+        width: 412
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0348c36ac88e3c0800000000000000
+      internalID: -4330056396108975889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 80
+        width: 414
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c37189e7383b0380800000000000000
+      internalID: -9004041217205242939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_8
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 87
+        width: 418
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b75c31cd4ba15ba0800000000000000
+      internalID: -6101907669667522634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbersbox_9
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 84
+        width: 419
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c33fae7ac6e16230800000000000000
+      internalID: 3630436532020523975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      numbersbox_0: -14999981803372478
+      numbersbox_1: -5910096964495717388
+      numbersbox_11: 2641572249312231913
+      numbersbox_2: 3011267537583597504
+      numbersbox_3: -5773197560148868345
+      numbersbox_4: 2033892222192582219
+      numbersbox_5: 5322456711054683569
+      numbersbox_6: -4330056396108975889
+      numbersbox_7: -9004041217205242939
+      numbersbox_8: -6101907669667522634
+      numbersbox_9: 3630436532020523975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
